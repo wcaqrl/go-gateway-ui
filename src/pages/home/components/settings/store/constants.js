@@ -1,0 +1,6 @@
+export const CHANGE_OPEN   = 'settings/CHANGE_OPEN';
+export const CHANGE_THEME  = 'settings/CHANGE_THEME';
+export const CHANGE_HEADER_FIXED_CLOSE = 'settings/CHANGE_HEADER_FIXED_CLOSE';
+export const CHANGE_SIDER_FIXED_CLOSE = 'settings/CHANGE_SIDER_FIXED_CLOSE';
+export const CHANGE_MAIN_HEADER_SHOW_CLOSE = 'settings/CHANGE_MAIN_HEADER_SHOW_CLOSE';
+export const CHANGE_SIDER_SHOW_CLOSE = 'settings/CHANGE_SIDER_SHOW_CLOSE';

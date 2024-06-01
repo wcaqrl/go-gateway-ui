@@ -1,0 +1,21 @@
+
+.divider-vertical {
+    position: relative;
+    top: -0.06em;
+    display: inline-block;
+    height: 0.9em;
+    margin: 0 8px;
+    vertical-align: middle;
+    border-top: 0;
+    border-left: 1px solid #ccc;
+}
+
+.divider-horizontal {
+    display: flex;
+    clear: both;
+    width: 100%;
+    min-width: 98%;
+    height: 1px;
+    background: #ccc;
+    margin: 8px 0;
+}

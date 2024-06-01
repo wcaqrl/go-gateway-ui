@@ -1,0 +1,1 @@
+export const CHANGE_ADMINS = 'admin/CHANGE_ADMINS';
